@@ -21,7 +21,7 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 ## UI Frameworks
 
 * [Yoga](https://github.com/facebook/yoga) - a layout engine which implements Flexbox to build cross-platform (node, browser asm, and standalone) apps
-* [libui-node](https://github.com/parro-it/libui-node) - a GUI library engine to build cross-platform (node, browser asm, and standalone) apps
+* [libui-node](https://github.com/parro-it/libui-node) - Node.js native desktop GUI framework to build cross-platform (Windows, macOS, Linux) apps.
 * [proton-native](https://github.com/kusti8/proton-native) a React environment to build cross platform native desktop apps
 * [Brig](https://github.com/BrigJS/brig) - a user interface toolkit based on Qt to build cross-platform apps
 * [trayballoon](https://github.com/sindresorhus/trayballoon) - a system tray balloon on Windows
