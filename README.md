@@ -17,6 +17,7 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [Thrust](https://github.com/breach/thrust) - a Node.js and Chromium runtime to build cross platform desktop apps
 * [Electrino](https://github.com/pojala/electrino) - a desktop runtime for apps built on web technologies, using the system's own web browser engine (Mac OS only)
 * [Quark](https://github.com/jscherer92/Quark) - a desktop runtime for apps built on web technologies, using the system's own web browser engine (Windows only)
+* [vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js.
 
 ## UI Frameworks
 
