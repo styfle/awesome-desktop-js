@@ -25,6 +25,7 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [proton-native](https://github.com/kusti8/proton-native) a React environment to build cross platform native desktop apps
 * [Brig](https://github.com/BrigJS/brig) - a user interface toolkit based on Qt to build cross-platform apps
 * [trayballoon](https://github.com/sindresorhus/trayballoon) - a system tray balloon on Windows
+* [systray](https://github.com/zaaack/node-systray) - a system tray balloon on Windows, Mac, Linux
 
 ## Packaging
 
