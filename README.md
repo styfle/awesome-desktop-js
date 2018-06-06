@@ -27,6 +27,7 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [Brig](https://github.com/BrigJS/brig) - a user interface toolkit based on Qt to build cross-platform apps
 * [trayballoon](https://github.com/sindresorhus/trayballoon) - a system tray balloon on Windows
 * [systray](https://github.com/zaaack/node-systray) - a system tray balloon on Windows, Mac, Linux
+* [vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js.
 
 ## Packaging
 
