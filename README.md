@@ -19,6 +19,7 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [Electrino](https://github.com/pojala/electrino) - a runtime to build cross platform desktop apps using the system's own web browser engine (Mac OS only)
 * [Quark Shell](https://github.com/HackPlan/quark-shell-mac) - a runtime to build cross platform desktop apps using the system's own web browser engine (Mac OS only)
 * [Quark](https://github.com/jscherer92/Quark) - a runtime to build cross platform desktop apps using the system's own web browser engine (Windows only)
+* [Yue](https://github.com/yue/yue) - a library for creating native cross-platform desktop apps with Chromium
 
 ## UI Frameworks
 
