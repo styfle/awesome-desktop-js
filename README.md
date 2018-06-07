@@ -18,6 +18,7 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [Electrino](https://github.com/pojala/electrino) - a desktop runtime for apps built on web technologies, using the system's own web browser engine (Mac OS only)
 * [Quark](https://github.com/jscherer92/Quark) - a desktop runtime for apps built on web technologies, using the system's own web browser engine (Windows only)
 * [vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js.
+* [Quark Shell](https://github.com/HackPlan/quark-shell-mac) - create a desktop app with WebKit on MacOS 
 
 ## UI Frameworks
 
@@ -25,9 +26,15 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [libui-node](https://github.com/parro-it/libui-node) - Node.js native desktop GUI framework to build cross-platform (Windows, macOS, Linux) apps.
 * [proton-native](https://github.com/kusti8/proton-native) a React environment to build cross platform native desktop apps
 * [Brig](https://github.com/BrigJS/brig) - a user interface toolkit based on Qt to build cross-platform apps
-* [trayballoon](https://github.com/sindresorhus/trayballoon) - a system tray balloon on Windows
-* [systray](https://github.com/zaaack/node-systray) - a system tray balloon on Windows, Mac, Linux
 * [vuido](https://github.com/mimecorg/vuido) - Native desktop applications using Vue.js.
+
+## System Tray & MenuBar
+
+* [trayballoon](https://github.com/sindresorhus/trayballoon) - a system tray balloon on Windows
+* [systray](https://github.com/zaaack/node-systray) - a system tray icon and menu that runs on Windows, Mac, Linux
+* [menubar](https://github.com/maxogden/menubar) - easily create a menubar Electron app on MacOS
+* [xtray](https://github.com/tetsuo/xtray) - create a native menubar app on MacOS via a node.js ⇆ Swift bridge using objc runtime
+* [positron-bar](https://github.com/ElessarWebb/positron-bar) - Electron bar for your linux desktop
 
 ## Packaging
 
