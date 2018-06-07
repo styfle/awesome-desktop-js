@@ -8,6 +8,7 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 
 * [HTML Frameworks](#html-frameworks)
 * [UI Frameworks](#ui-frameworks)
+* [System Tray](#system-tray)
 * [Packaging](#packaging)
 
 ## HTML Frameworks
@@ -27,7 +28,7 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [vuido](https://github.com/mimecorg/vuido) - a Vue.js environment to build cross platform native desktop apps
 * [Brig](https://github.com/BrigJS/brig) - a user interface toolkit based on Qt to build cross-platform apps
 
-## System Tray & MenuBar
+## System Tray
 
 * [trayballoon](https://github.com/sindresorhus/trayballoon) - a system tray balloon on Windows
 * [systray](https://github.com/zaaack/node-systray) - a system tray icon and menu that runs on Windows, Mac, Linux
