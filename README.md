@@ -55,8 +55,8 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [node-packer](https://github.com/pmq20/node-packer) - a cli which compiles your Node.js app into a single executable
 * [nectarjs](https://github.com/NectarJS/nectarjs) - a cli which compiles your Node.js app into a single executable (linux, windows, wasm, asm, arduino)
 * [lone](https://github.com/imlucas/lone) - a cli which compiles your Node.js app into a single executable
+* [enclose](https://github.com/igorklopov/enclose)  - a cli which compiles your Node.js app into a single executable
 * [launchui-packager](https://github.com/mimecorg/launchui-packager) - an API which packages GUI Node.js applications for Windows, Linux and OS X
-
 
 ## License
 
