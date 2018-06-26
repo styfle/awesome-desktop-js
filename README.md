@@ -58,6 +58,11 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [enclose](https://github.com/igorklopov/enclose)  - a cli which compiles your Node.js app into a single executable
 * [launchui-packager](https://github.com/mimecorg/launchui-packager) - an API which packages GUI Node.js applications for Windows, Linux and OS X
 
+## Boilerplate
+* [electron-vue](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack
+* [electron-react](https://github.com/chentsulin/electron-react-boilerplate) - Electron application boilerplate based on React, Redux, React Router, Webpack, React Transform HMR for rapid application development.
+* [electron-angular](https://github.com/maximegris/angular-electron) - Ultra-fast bootstrapping with Angular 6 and Electron (Typescript + SASS + Hot Reload).
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
