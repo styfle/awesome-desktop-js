@@ -59,6 +59,7 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [lone](https://github.com/imlucas/lone) - a cli which compiles your Node.js app into a single executable
 * [enclose](https://github.com/igorklopov/enclose)  - a cli which compiles your Node.js app into a single executable
 * [launchui-packager](https://github.com/mimecorg/launchui-packager) - an API which packages GUI Node.js applications for Windows, Linux and OS X
+* [ncc](https://github.com/zeit/ncc) - Simple CLI for compiling a Node.js module into a single file, together with all its dependencies, gcc-style.
 
 ## License
 
