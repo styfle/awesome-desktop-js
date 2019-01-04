@@ -25,6 +25,7 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [Quark Shell](https://github.com/HackPlan/quark-shell-mac) - a runtime to build cross platform desktop apps using the system's own web browser engine (Mac OS only)
 * [Quark](https://github.com/jscherer92/Quark) - a runtime to build cross platform desktop apps using the system's own web browser engine (Windows only)
 * [carlo](https://github.com/GoogleChromeLabs/carlo) - a runtime to build cross platform desktop apps using the system's installed version of Google Chrome
+* [node-webrender](https://github.com/cztomsik/node-webrender) - a runtime to build cross platform desktop apps using [Servo GPU WebRender](https://github.com/servo/webrender) with optional React.js bindings (Linux and MacOS Only)
 
 ### LibUI
 
