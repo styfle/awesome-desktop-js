@@ -25,7 +25,7 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [Quark Shell](https://github.com/HackPlan/quark-shell-mac) - a runtime to build desktop apps using the system's own web browser (Mac OS only)
 * [Quark](https://github.com/jscherer92/Quark) - a runtime to build desktop apps using the system's own web browser (Windows only)
 * [carlo](https://github.com/GoogleChromeLabs/carlo) - a runtime to build desktop apps using the system's installed version of Google Chrome
-* [node-webrender](https://github.com/cztomsik/node-webrender) - a runtime to build desktop apps using [Servo GPU WebRender](https://github.com/servo/webrender) with optional React.js bindings (Linux and MacOS Only)
+* [stain](https://github.com/cztomsik/stain) - build desktop apps with react-native API, render them on GPU using [Servo  WebRender](https://github.com/servo/webrender) (Linux and MacOS Only)
 * [DeskGap](https://github.com/patr0nus/DeskGap) - a runtime to build desktop apps using Node.js and the system's own web browser (Mac OS 10.10+ or Windows 1809+ only)
 
 ### LibUI
