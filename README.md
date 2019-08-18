@@ -38,6 +38,7 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 
 * [Brig](https://github.com/BrigJS/brig) - a user interface toolkit based on Qt to build cross-platform apps
 * [Quark](https://github.com/freemountain/quark/) - create cross platform desktop apps with Node.js and QML
+* [NodeGUI](https://github.com/nodegui/nodegui) - a library powered by Qt5 for building cross-platform native desktop applications with JavaScript and CSS
 
 ### Flexbox
 
