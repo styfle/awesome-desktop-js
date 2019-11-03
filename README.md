@@ -21,6 +21,7 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 
 ### Web
 
+* [Neutralino] - a runtime to build desktop apps using the system's own web browser (Windows, macOS and Linux)
 * [Electrino](https://github.com/pojala/electrino) - a runtime to build desktop apps using the system's own web browser (Mac OS only)
 * [Quark Shell](https://github.com/HackPlan/quark-shell-mac) - a runtime to build desktop apps using the system's own web browser (Mac OS only)
 * [Quark](https://github.com/jscherer92/Quark) - a runtime to build desktop apps using the system's own web browser (Windows only)
