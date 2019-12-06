@@ -17,7 +17,6 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [Electron](https://github.com/electron/electron) - a Node.js and Chromium runtime to build cross platform desktop apps
 * [Muon](https://github.com/brave/muon) - a fork of Electron, more closly resemblying Chrome
 * [nw.js](https://github.com/nwjs/nw.js) - a Node.js and Chromium runtime to build cross platform desktop apps
-* [Thrust](https://github.com/breach/thrust) - a Node.js and Chromium runtime to build cross platform desktop apps
 
 ### Web
 
