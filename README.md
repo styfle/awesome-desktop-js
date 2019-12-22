@@ -19,13 +19,13 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 
 ### Web
 
-* [Neutralino](https://github.com/neutralinojs/neutralinojs) - a runtime to build desktop apps using the system's own web browser (Windows, macOS and Linux)
-* [Electrino](https://github.com/pojala/electrino) - a runtime to build desktop apps using the system's own web browser (Mac OS only)
-* [Quark Shell](https://github.com/HackPlan/quark-shell-mac) - a runtime to build desktop apps using the system's own web browser (Mac OS only)
+* [Neutralino](https://github.com/neutralinojs/neutralinojs) - a runtime to build desktop apps using the system's own web browser (Windows, macOS, Linux)
+* [Electrino](https://github.com/pojala/electrino) - a runtime to build desktop apps using the system's own web browser (macOS only)
+* [Quark Shell](https://github.com/HackPlan/quark-shell-mac) - a runtime to build desktop apps using the system's own web browser (macOS only)
 * [Quark](https://github.com/jscherer92/Quark) - a runtime to build desktop apps using the system's own web browser (Windows only)
 * [carlo](https://github.com/GoogleChromeLabs/carlo) - a runtime to build desktop apps using the system's installed version of Google Chrome
-* [stain](https://github.com/cztomsik/stain) - build desktop apps with react-native API, render them on GPU using [Servo  WebRender](https://github.com/servo/webrender) (Linux and MacOS Only)
-* [DeskGap](https://github.com/patr0nus/DeskGap) - a runtime to build desktop apps using Node.js and the system's own web browser (Mac OS 10.10+, Windows 1809+ and Ubuntu 16.04+)
+* [stain](https://github.com/cztomsik/stain) - build desktop apps with react-native API, render them on GPU using [Servo  WebRender](https://github.com/servo/webrender) (Linux and macOS)
+* [DeskGap](https://github.com/patr0nus/DeskGap) - a runtime to build desktop apps using Node.js and the system's own web browser (macOS 10.10+, Windows 1809+ and Ubuntu 16.04+)
 
 ### LibUI
 
@@ -47,20 +47,20 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 ## System Tray
 
 * [trayballoon](https://github.com/sindresorhus/trayballoon) - a system tray balloon on Windows
-* [systray](https://github.com/zaaack/node-systray) - a system tray icon and menu that runs on Windows, Mac, Linux
-* [menubar](https://github.com/maxogden/menubar) - easily create a menubar Electron app on MacOS
-* [xtray](https://github.com/tetsuo/xtray) - create a native menubar app on MacOS via a node.js ⇆ Swift bridge using objc runtime
-* [positron-bar](https://github.com/ElessarWebb/positron-bar) - Electron bar for your linux desktop
+* [systray](https://github.com/zaaack/node-systray) - a system tray icon and menu (Windows, macOS, Linux)
+* [menubar](https://github.com/maxogden/menubar) - easily create a menubar Electron app (macOS only)
+* [xtray](https://github.com/tetsuo/xtray) - create a native menubar app via a node.js ⇆ Swift bridge using objc runtime (macOS only)
+* [positron-bar](https://github.com/ElessarWebb/positron-bar) - Electron bar for (Linux only)
 
 ## Packaging
 
 * [nexe](https://github.com/nexe/nexe) - a cli which compiles your Node.js app into a single executable
 * [pkg](https://github.com/zeit/pkg) - a cli which compiles your Node.js app into a single executable
 * [node-packer](https://github.com/pmq20/node-packer) - a cli which compiles your Node.js app into a single executable
-* [nectarjs](https://github.com/NectarJS/nectarjs) - a cli which compiles your Node.js app into a single executable (linux, windows, wasm, asm, arduino)
+* [nectarjs](https://github.com/NectarJS/nectarjs) - a cli which compiles your Node.js app into a single executable (Linux, Windows, WebAssembly, Arduino)
 * [lone](https://github.com/imlucas/lone) - a cli which compiles your Node.js app into a single executable
 * [enclose](https://github.com/igorklopov/enclose)  - a cli which compiles your Node.js app into a single executable
-* [launchui-packager](https://github.com/mimecorg/launchui-packager) - an API which packages GUI Node.js applications for Windows, Linux and OS X
+* [launchui-packager](https://github.com/mimecorg/launchui-packager) - an API which packages GUI Node.js applications (Linux, Windows, macOS)
 * [nbin](https://github.com/cdr/nbin) - a cli which compiles your Node.js app into a single executable
 
 ## License
