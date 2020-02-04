@@ -30,7 +30,6 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 ### LibUI
 
 * [libui-node](https://github.com/parro-it/libui-node) - Node.js native desktop GUI framework to build cross-platform (Windows, macOS, Linux) apps.
-* [proton-native](https://github.com/kusti8/proton-native) a React.js environment to build cross platform native desktop apps
 * [vuido](https://github.com/mimecorg/vuido) - a Vue.js environment to build cross platform native desktop apps
 
 ### Qt
@@ -38,6 +37,7 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [Brig](https://github.com/BrigJS/brig) - a user interface toolkit based on Qt to build cross-platform apps
 * [Quark](https://github.com/freemountain/quark/) - create cross platform desktop apps with Node.js and QML
 * [NodeGUI](https://github.com/nodegui/nodegui) - a library powered by Qt5 for building cross-platform native desktop applications with JavaScript and CSS
+* [proton-native](https://github.com/kusti8/proton-native) a React.js environment to build cross platform native desktop apps
 
 ### Flexbox
 
