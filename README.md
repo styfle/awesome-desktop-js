@@ -26,7 +26,8 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [carlo](https://github.com/GoogleChromeLabs/carlo) - a runtime to build desktop apps using the system's installed version of Google Chrome
 * [graffiti](https://github.com/cztomsik/graffiti) - build desktop apps with react-native API, render them on GPU using [Servo  WebRender](https://github.com/servo/webrender) (Linux and macOS)
 * [DeskGap](https://github.com/patr0nus/DeskGap) - a runtime to build desktop apps using Node.js and the system's own web browser (macOS 10.10+, Windows 1809+ and Ubuntu 16.04+)
-* [azula](https://github.com/maierfelix/azula) - azula is a lightweight GPU accelerated HTML GUI for native JavaScript applications (windows only at the moment)
+* [azula](https://github.com/maierfelix/azula) - azula is a lightweight GPU accelerated HTML GUI for native JavaScript applications (windows only at the moment). Based on Ultralight
+* [Ultralight](https://github.com/patr0nus/DeskGap) - lightweight, cross-platform, pure-GPU, HTML rendering engine for desktop apps and games. (macOS Sierra or later, Windows 7+ and Ubuntu or Debian 9.5+)
 
 ### LibUI
 
