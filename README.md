@@ -29,6 +29,9 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [azula](https://github.com/maierfelix/azula) - azula is a lightweight GPU accelerated HTML GUI for native JavaScript applications (Windows only, based on Ultralight)
 * [Ultralight](https://github.com/ultralight-ux/Ultralight) - lightweight, cross-platform, pure-GPU, HTML rendering engine for desktop apps and games. (macOS Sierra or later, Windows 7+ and Ubuntu or Debian 9.5+)
 * [Tauri](https://tauri.studio/) - Build desktop apps with Node.js and a system webview. For the webview, Tauri uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and MSHTML(IE10/11) or Webkit via EdgeHTML/Chakra on Windows.
+* [deno_webview](https://github.com/eliassjogreen/deno_webview) - This project provides [deno](https://github.com/denoland/deno) bindings for
+[webview](https://github.com/zserge/webview) using the
+[webview rust bindings](https://github.com/Boscop/web-view). Currently supports Linux & Windows.
 
 ### LibUI
 
