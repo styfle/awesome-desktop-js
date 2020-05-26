@@ -31,8 +31,7 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [Tauri](https://tauri.studio/) - Build desktop apps with Node.js and a system webview. For the webview, Tauri uses Cocoa/WebKit on macOS, gtk-webkit2 on Linux and MSHTML(IE10/11) or Webkit via EdgeHTML/Chakra on Windows.
 * [deno_webview](https://github.com/eliassjogreen/deno_webview) - This project provides [deno](https://github.com/denoland/deno) bindings for
 [webview](https://github.com/zserge/webview) using the
-[webview rust bindings](https://github.com/Boscop/web-view). Webview is a tiny
-cross-platform library to render web-based GUIs for desktop applications.
+[webview rust bindings](https://github.com/Boscop/web-view). Currently supports Linux & Windows.
 
 ### LibUI
 
