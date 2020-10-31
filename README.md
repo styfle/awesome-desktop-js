@@ -68,7 +68,7 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 * [enclose](https://github.com/igorklopov/enclose)  - a cli which compiles your Node.js app into a single executable
 * [launchui-packager](https://github.com/mimecorg/launchui-packager) - an API which packages GUI Node.js applications (Linux, Windows, macOS)
 * [nbin](https://github.com/cdr/nbin) - a cli which compiles your Node.js app into a single executable
-* [boxednode](https://github.com/mongodb-js/boxednode) - a cli which compiles your Node.js app into a single executable
+* [boxednode](https://github.com/mongodb-js/boxednode) - a cli (and API) which compiles your Node.js file into a single executable
 
 ## License
 
