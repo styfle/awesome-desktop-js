@@ -53,7 +53,7 @@ A curated list of awesome packages and frameworks for implementing javascript ap
 ## System Tray
 
 * [trayballoon](https://github.com/sindresorhus/trayballoon) - a system tray balloon on Windows
-* [systray](https://github.com/zaaack/node-systray) - a system tray icon and menu (Windows, macOS, Linux)
+* [systray2](https://github.com/felixhao28/node-systray) - a system tray icon and menu (Windows, macOS, Linux)
 * [menubar](https://github.com/maxogden/menubar) - easily create a menubar Electron app (macOS only)
 * [xtray](https://github.com/tetsuo/xtray) - create a native menubar app via a node.js ⇆ Swift bridge using objc runtime (macOS only)
 * [positron-bar](https://github.com/ElessarWebb/positron-bar) - Electron bar for (Linux only)
