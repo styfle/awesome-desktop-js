@@ -32,6 +32,7 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 * [deno_webview](https://github.com/eliassjogreen/deno_webview) - This project provides [deno](https://github.com/denoland/deno) bindings for
 [webview](https://github.com/zserge/webview) using the
 [webview rust bindings](https://github.com/Boscop/web-view). Currently supports Linux & Windows.
+[Kraken](https://openkraken.com/en-US) - High-performance web rendering engine, built on Flutter.
 
 ### LibUI
 
