@@ -62,7 +62,7 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 ## Packaging
 
 * [nexe](https://github.com/nexe/nexe) - a cli which compiles your Node.js app into a single executable
-* [pkg](https://github.com/zeit/pkg) - a cli which compiles your Node.js app into a single executable
+* [pkg](https://github.com/vercel/pkg) - a cli which compiles your Node.js app into a single executable
 * [node-packer](https://github.com/pmq20/node-packer) - a cli which compiles your Node.js app into a single executable
 * [nectarjs](https://github.com/NectarJS/nectarjs) - a cli which compiles your Node.js app into a single executable (Linux, Windows, WebAssembly, Arduino)
 * [lone](https://github.com/imlucas/lone) - a cli which compiles your Node.js app into a single executable
