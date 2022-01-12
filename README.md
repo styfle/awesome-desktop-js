@@ -33,6 +33,8 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 [webview](https://github.com/zserge/webview) using the
 [webview rust bindings](https://github.com/Boscop/web-view). Currently supports Linux & Windows.
 * [Kraken](https://openkraken.com/en-US) - a web rendering engine, built on Flutter.
+* [GRaderJS](https://github.com/i5ik/graderjs) - a runtime to build desktop apps using the system's installed version of Google Chrome (Linux, Mac or Windows).
+* [Window.js](https://windowjs.org/) - an open-source Javascript runtime for desktop graphics programming using the HTML5 Canvas API, rendered natively via the [Skia](https://skia.org/) graphics library. (Linux, Mac or Windows). Also, comes with APIs for input event handling, animated rendering and file access.
 
 ### LibUI
 
