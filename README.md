@@ -46,6 +46,9 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 * [NodeGUI](https://github.com/nodegui/nodegui) - a library powered by Qt5 for building cross-platform native desktop applications with JavaScript and CSS
 * [proton-native](https://github.com/kusti8/proton-native) a React.js environment to build cross platform native desktop apps
 
+### Avernakis 
+* [Ave-Nodejs](https://github.com/qber-soft/Ave-Nodejs) - nodejs addon for Avernakis SDK, use TypeScript to develop modern desktop app with powerful UI kits.
+
 ### Flexbox
 
 * [Yoga](https://github.com/facebook/yoga) - a layout engine which implements Flexbox to build cross-platform (node, browser asm, and standalone) apps
