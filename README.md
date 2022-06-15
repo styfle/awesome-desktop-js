@@ -33,7 +33,7 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 [webview](https://github.com/zserge/webview) using the
 [webview rust bindings](https://github.com/Boscop/web-view). Currently supports Linux & Windows.
 * [Kraken](https://openkraken.com/en-US) - a web rendering engine, built on Flutter.
-* [WelsonJS](https://github.com/gnh1201/welsonjs) - Build Windows desktop apps with JavaScript, HTML, and CSS based on WSH/HTA or GTK.
+* [WelsonJS](https://github.com/gnh1201/welsonjs) - Build Windows desktop apps with JavaScript, HTML, and CSS based on WSH/HTA or GTK (Windows only)
 
 ### LibUI
 
