@@ -19,12 +19,12 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 
 ### Web
 
-* [Neutralino](https://github.com/neutralinojs/neutralinojs) - a runtime to build desktop apps using the system's own web browser (Windows, macOS, Linux)
-* [Electrino](https://github.com/pojala/electrino) - a runtime to build desktop apps using the system's own web browser (macOS only)
+* [Neutralino](https://github.com/neutralinojs/neutralinojs) - a runtime to build desktop apps using the system's own web browser (cross-platform)
+* [Electrino](https://github.com/pojala/electrino) - a runtime to build desktop apps using the system's own web browser (cross-platform)
 * [Quark Shell](https://github.com/HackPlan/quark-shell-mac) - a runtime to build desktop apps using the system's own web browser (macOS only)
 * [Quark](https://github.com/jscherer92/Quark) - a runtime to build desktop apps using the system's own web browser (Windows only)
-* [carlo](https://github.com/GoogleChromeLabs/carlo) - a runtime to build desktop apps using the system's installed version of Google Chrome
-* [graffiti](https://github.com/cztomsik/graffiti) - build desktop apps with react-native API, render them on GPU using [Servo  WebRender](https://github.com/servo/webrender) (Linux, macOS, and Windows)
+* [carlo](https://github.com/GoogleChromeLabs/carlo) - a runtime to build desktop apps using the system's installed version of Google Chrome (cross-platform, no longer maintained)
+* [graffiti](https://github.com/cztomsik/graffiti) - build desktop apps with react-native API, render them on GPU using [Servo  WebRender](https://github.com/servo/webrender) (cross-platform)
 * [DeskGap](https://github.com/patr0nus/DeskGap) - a runtime to build desktop apps using Node.js and the system's own web browser (macOS 10.10+, Windows 1809+ and Ubuntu 16.04+)
 * [azula](https://github.com/maierfelix/azula) - a GPU accelerated HTML GUI for native JavaScript applications (Windows only, based on Ultralight)
 * [Ultralight](https://github.com/ultralight-ux/Ultralight) - lightweight, cross-platform, pure-GPU, HTML rendering engine for desktop apps and games. (macOS Sierra or later, Windows 7+ and Ubuntu or Debian 9.5+)
@@ -56,8 +56,8 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 
 * [trayballoon](https://github.com/sindresorhus/trayballoon) - a system tray balloon on Windows
 * [systray2](https://github.com/felixhao28/node-systray) - a system tray icon and menu (Windows, macOS, Linux)
-* [menubar](https://github.com/maxogden/menubar) - easily create a menubar Electron app (macOS only)
-* [xtray](https://github.com/tetsuo/xtray) - create a native menubar app via a node.js ⇆ Swift bridge using objc runtime (macOS only)
+* [menubar](https://github.com/maxogden/menubar) - easily create a menubar Electron app (Windows, macOS, Linux)
+* [xtray](https://github.com/tetsuo/xtray) - create a native menubar app via a node.js ⇆ Swift bridge using objc runtime (macOS only, deprecated)
 * [positron-bar](https://github.com/ElessarWebb/positron-bar) - Electron bar for (Linux only)
 
 ## Packaging
