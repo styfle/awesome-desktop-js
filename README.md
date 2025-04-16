@@ -34,6 +34,9 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 [webview rust bindings](https://github.com/Boscop/web-view). Currently supports Linux & Windows.
 * [Kraken](https://openkraken.com/en-US) - a web rendering engine, built on Flutter.
 * [Socket Runtime](https://sockets.sh) - a runtime using the system's native webview for creating native cross-platform software on mobile and desktop. It also exposes primitives needed for building peer-to-peer and local-first applications, such as Bluetooth, UDP and File I/O.
+* [Lynxjs](https://lynxjs.org/) - Empower the web community and invite more to build across platforms. (Windows, macOS, Linux)
+
+
 
 ### LibUI
 
