@@ -36,8 +36,6 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 * [Socket Runtime](https://sockets.sh) - a runtime using the system's native webview for creating native cross-platform software on mobile and desktop. It also exposes primitives needed for building peer-to-peer and local-first applications, such as Bluetooth, UDP and File I/O.
 * [Lynx](https://lynxjs.org - an alternative to React Native that powers TikTok (Windows, macOS, Linux)
 
-
-
 ### LibUI
 
 * [libui-node](https://github.com/parro-it/libui-node) - Node.js native desktop GUI framework to build cross-platform (Windows, macOS, Linux) apps.
