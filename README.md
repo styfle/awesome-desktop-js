@@ -36,6 +36,7 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 * [Socket Runtime](https://sockets.sh) - a runtime using the system's native webview for creating native cross-platform software on mobile and desktop. It also exposes primitives needed for building peer-to-peer and local-first applications, such as Bluetooth, UDP and File I/O.
 * [Lynx](https://lynxjs.org) - an alternative to React Native that powers TikTok (Android, iOS, macOS)
 * [Electrobun](https://blackboard.sh/electrobun/docs/) - a runtime to build desktop apps using Bun and the system's own web browser (Windows, macOS, Linux) around 14MB
+* [zero-native](https://github.com/vercel-labs/zero-native) - a runtime for small apps (less than 1MB) that use the system WebView or bundle Chromium via CEF (macOS, Linux)
 
 ### LibUI
 
