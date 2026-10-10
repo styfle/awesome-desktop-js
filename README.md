@@ -37,6 +37,7 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 * [Lynx](https://lynxjs.org) - an alternative to React Native that powers TikTok (Android, iOS, macOS)
 * [Electrobun](https://blackboard.sh/electrobun/docs/) - a runtime to build desktop apps using Bun and the system's own web browser (Windows, macOS, Linux) around 14MB
 * [zero-native](https://github.com/vercel-labs/zero-native) - a runtime for small apps (less than 1MB) that use the system WebView or bundle Chromium via CEF (macOS, Linux)
+* [tinyjs](https://github.com/tarwin/tinyjsapp) - a runtime to build desktop apps using txiki.js and the system's own webview (macOS, Windows, Linux) around 6MB
 
 ### LibUI
 
