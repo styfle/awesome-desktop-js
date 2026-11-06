@@ -9,6 +9,7 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 * [GUI Frameworks](#gui-frameworks)
 * [System Tray](#system-tray)
 * [Packaging](#packaging)
+* [Boilerplates](#boilerplates)
 
 ## GUI Frameworks
 
@@ -75,6 +76,10 @@ A curated list of awesome packages and frameworks for implementing JavaScript ap
 * [nbin](https://github.com/cdr/nbin) - a cli which compiles your Node.js app into a single executable
 * [boxednode](https://github.com/mongodb-js/boxednode) - a cli (and API) which compiles your Node.js file into a single executable
 * [caxa](https://github.com/leafac/caxa) - a cli (and API) which compiles your Node.js app into a single executable
+
+## Boilerplates
+
+* [Electron AppStack](https://electron-appstack.com) - an Electron starter with React, tRPC, SQLite, auto update and code signing (Windows, macOS, Linux)
 
 ## License
 
